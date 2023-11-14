@@ -1,0 +1,7 @@
+base   heimu
+author Xenolies
+email  3116372735@qq.com
+date   2023-11-11
+name   heimu plugin
+desc   萌娘百科wiki黑幕的dokuwiki实现
+url    https://www.dokuwiki.org/plugin:heimu
